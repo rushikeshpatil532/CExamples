@@ -1,2 +1,1 @@
-# CExamples
-hackoberfest
+# Sorting Examples in C
